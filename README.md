@@ -25,4 +25,4 @@ You can get the license key on our discord server.
 ```
 
 
-- Discord Server : 
+- Discord Server : https://discord.gg/dZbevUnnHf
